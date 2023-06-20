@@ -49,6 +49,7 @@ gap: 40px;
     display: flex;
     flex-wrap: wrap;
     padding-top: 100px;
+    font-family: 'Anek Bangla';
 }
 
 
@@ -60,6 +61,7 @@ gap: 40px;
   padding-top: 98px;
   padding-left: 70px;
   font-family: 'inter';
+  font-family: 'Anek Bangla';
 }
 .categorias1{
     justify-content: space-around;
@@ -68,6 +70,7 @@ gap: 40px;
     flex-wrap: wrap;
     font-family: 'inter' ;
     padding-top: 100px;
+    font-family: 'Anek Bangla';
 }
 
 .categorias2{
@@ -77,46 +80,55 @@ gap: 40px;
     flex-wrap: wrap;
     padding-top: 50px;
     font-family: 'inter' ;
+    font-family: 'Anek Bangla';
 }
 .cat1{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat2{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat3{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat4{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat5{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat6{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat7{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 .cat8{
     display: flex;
     align-items: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
 }
 
 /* ----------------------promoção---------------------- */
@@ -128,6 +140,7 @@ gap: 40px;
     flex-wrap: wrap;
     font-family: 'inter' ;
     padding-top: 100px;
+    font-family: 'Anek Bangla';
 }
 
 .promo1 p{
@@ -135,11 +148,13 @@ gap: 40px;
     text-align: center;
     flex-direction:column ;
     max-width: 217px;
+    font-family: 'Anek Bangla';
 } 
 .promo2{
     display: flex;
     text-align: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
     max-width: 217px;
 }
 .promo3{
@@ -147,6 +162,7 @@ gap: 40px;
     text-align: center;
     flex-direction:column ;
     max-width: 217px;
+    font-family: 'Anek Bangla';
 }
 
 /* ------------------------destaque---------------------- */
@@ -158,17 +174,20 @@ gap: 40px;
     flex-wrap: wrap;
     font-family: 'inter' ;
     padding-top: 100px; 
+    font-family: 'Anek Bangla';
 }
 .dstq1{
     display: flex;
     text-align: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
     max-width: 217px;
 }
 .dstq2{
     display: flex;
     text-align: center;
     flex-direction:column ;
+    font-family: 'Anek Bangla';
     max-width: 217px;
 }
 .dstq3{
