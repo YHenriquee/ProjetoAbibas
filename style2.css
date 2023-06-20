@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #DCDCDC;
+}
+.barraPesquisa {
+    background: linear-gradient(rgba(2, 181, 2, 1), rgba(2, 181, 2, 1), rgba(127, 255, 0, 1) 100%);
+    display: flex;
+    font-family: 'Anek Bangla';
+    margin-left: 0;
+    justify-content: space-around;
+    align-items: center;
+}
+.abi{
+   display: flex;
+   align-items: center;
+   flex-direction:column ;
+}
+.barraPesquisa input {
+    position: relative;
+    width: 616.98px;
+    height: 33px;
+    background-color: #FFFF;
+    border: white 1px;
+    border-radius: 10px;
+}
+.ata{
+display: flex;
+gap: 40px;
+}
+/*------------------------DESTAQUES-------------------------------*/
+.Destaques{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+
+
+
+/* ------------------------CATEGORIAS---------------------------- */
+
+.text{
+  text-align: justify; 
+  padding-top: 98px;
+  padding-left: 70px;
+  font-family: 'inter';
+}
+.categorias1{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'inter' ;
+    padding-top: 100px;
+}
+
+.categorias2{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    font-family: 'inter' ;
+}
+.cat1{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat2{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat3{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat4{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat5{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat6{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat7{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+.cat8{
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+}
+
+/* ----------------------promoção---------------------- */
+
+.promocoes{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'inter' ;
+    padding-top: 100px;
+}
+
+.promo1 p{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+} 
+.promo2{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+}
+.promo3{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+}
+
+/* ------------------------destaque---------------------- */
+
+.Destaques_smn{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'inter' ;
+    padding-top: 100px; 
+}
+.dstq1{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+}
+.dstq2{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+}
+.dstq3{
+    display: flex;
+    text-align: center;
+    flex-direction:column ;
+    max-width: 217px;
+}
+
+
+/* --------------------marcas filiadas-------------------- */
+
+.marcas{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'inter' ;
+    padding-top: 100px;
+}
+
+/* ---------------------usuario------------------------------ */
+
+.degrade{
+    background: linear-gradient(rgba(2, 181, 2, 1), rgba(2, 181, 2, 1), rgba(127, 255, 0, 1) 100%);
+    display: flex;
+    font-family: 'Anek Bangla';
+    margin-left: 0;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.login{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.text2{
+    font-family: 'Aldrich';
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.usuario{
+    font-family: 'Allerta Stencil';
+    text-transform: uppercase;
+    color: black;
+
+}
+.usuario input{
+    position: relative;
+    width: 476px;
+    height: 33px;
+    background-color: #FFFF;
+    border: white 1px;
+    border-radius: 10px;
+}
+.senha{
+    font-family: 'Allerta Stencil';
+    text-transform: uppercase;
+    color: black; 
+}
+.senha input{
+    position: relative;
+    width: 476px;
+    height: 33px;
+    background-color: #FFFF;
+    border: white 1px;
+    border-radius: 10px;
+}
+
+.botao input{
+   width: 274px; 
+   height: 76.35px;
+   border-radius: 15px;
+   background: linear-gradient(180deg, #06D706 0%, #7FFF00 100%);
+   font-family: 'Allerta Stencil';
+   font-size: 16px;
+   text-transform: uppercase;
+
+}
+
+
+
